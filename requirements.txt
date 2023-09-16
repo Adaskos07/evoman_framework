@@ -1,3 +1,7 @@
 pygame
 numpy
 tmx
+neat-python
+pandas
+graphviz
+matplotlib
